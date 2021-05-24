@@ -8,3 +8,5 @@
 * Hence, the idea of this project is to create a tool, that when given the name of a nursing home, can scrape the titles of 
 news articles from a set date range and tell you if they are mostly positive, negative, or neutral
 * The idea is that the aggregation of news articles and their resulting tones, can help enhance people's their decisions
+* Currently, I'm using streamlit to display the data. It's an amazingly easy and fast tool to display the results! 
+* You can check it out by downloading this project and running "streamlit run main.py" in the folder. Enjoy! 
