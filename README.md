@@ -11,4 +11,4 @@ news articles from a set date range and tell you if they are mostly positive, ne
 
 ## Results
 * Currently, I'm using streamlit to display the data. It's an amazingly easy and fast tool to display the results! 
-* You can check it out by downloading this project and running "streamlit run main.py" in the folder. Enjoy! 
+* You can check it out by downloading this project and running "streamlit run main.py" in the folder. Enjoy!!
